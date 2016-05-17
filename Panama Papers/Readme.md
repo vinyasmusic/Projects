@@ -29,6 +29,8 @@ https://cdn.rawgit.com/vinyasmusic/Projects/master/Panama%20Papers/Indian%20Addr
 
 The final geocoded csv is also included in the project folder.
 
+Thanks to r-blogger for the geocoding script. The same script was modified to suit this data and manipulate it accordingly.
+
 
 To do :
 
