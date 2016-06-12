@@ -9,15 +9,20 @@
 	Method and Challenges:
 
 	Viz_Range:
-	 - We can make a x-y axis graph which shows various emotions on the plot at various degrees. This will give us options to show many emotions in one graph or viz. 
+	 - We can make a x-y axis graph which shows various emotions on the plot at various degrees. 
+	   This will give us options to show many emotions in one graph or viz. 
 	 - Challenge here will be to detech sarcastic tweets
 	   e.g. "DAMN! FUCK ! What a through ball" This could potentially be classified as a 'tense' emotion
 	   Possible solutions could be, building a corpus of such phrases and other commonly used phrases which can help us classify the tweets in the correct category.
 	Viz_Live:
 	 - A two sided bar graph (horizontal). It will help show or quantify the type of emotion at that instant.
-	   e.g. At 20min 30sec we have 1000 positive tweets and 30 negative tweets. We can show two bars for that instant, one going vertically up which represents positive tweets and the other going vertically down which would represent negative tweets.
+	   e.g. At 20min 30sec we have 1000 positive tweets and 30 negative tweets. 
+	   We can show two bars for that instant, one going vertically up which represents positive tweets.
+	   The other going vertically down which would represent negative tweets.
 	 - We can make this for a match as a whole or also for seperate teams
-	 - Challenge here would be the sheer number of tweets that come in. Maybe we can capture tweets for specific hashtags while match is on. Later we can visualize the whole match's timeline and publish. (Defeats the purpose?)
+	 - Challenge here would be the sheer number of tweets that come in. 
+	   Maybe we can capture tweets for specific hashtags while match is on. 
+	   Later we can visualize the whole match's timeline and publish. (Defeats the purpose?)
 	Viz_Location:
 	 - A location density plot on a map for originating locations for all tweets
 
@@ -48,7 +53,7 @@
 
 	Sub-objective:
 	- Same as stated above in Bollywood analysis
-	- Which movies are more successful in domestic market (USA) and which have done very well overseas as well (more specifically where).
+	- Which movies are more successful in domestic market (USA) and which have done very well overseas (more specifically where).
 	 e.g. Jungle Book has done tremendously well in India than in other overseas countries
 
 
