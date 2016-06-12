@@ -1,4 +1,5 @@
 *Football Twitter Sentiment Analysis:*
+
 	Main Objective : To make a visualization which shows the sentiment of the Tweeters concerning a match
 
 	Sub-objective :
@@ -13,7 +14,7 @@
 	   This will give us options to show many emotions in one graph or viz. 
 	 - Challenge here will be to detech sarcastic tweets
 	   e.g. "DAMN! FUCK ! What a through ball" This could potentially be classified as a 'tense' emotion
-	   Possible solutions could be, building a corpus of such phrases and other commonly used phrases which can help us classify the tweets in the correct category.
+	   Possible solutions could be, building a corpus of such commonly used phrases which can help us classify the tweets in correct category.
 	Viz_Live:
 	 - A two sided bar graph (horizontal). It will help show or quantify the type of emotion at that instant.
 	   e.g. At 20min 30sec we have 1000 positive tweets and 30 negative tweets. 
