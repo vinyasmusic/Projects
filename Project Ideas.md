@@ -15,6 +15,7 @@ Viz_Range:
  - Challenge here will be to detech sarcastic tweets
    e.g. "DAMN! FUCK ! What a through ball" This could potentially be classified as a 'tense' emotion
    Possible solutions could be, building a corpus of such commonly used phrases which can help us classify the tweets in correct category.
+
 Viz_Live:
  * A two sided bar graph (horizontal). It will help show or quantify the type of emotion at that instant.
    e.g. At 20min 30sec we have 1000 positive tweets and 30 negative tweets. 
@@ -24,6 +25,7 @@ Viz_Live:
  - Challenge here would be the sheer number of tweets that come in. 
    Maybe we can capture tweets for specific hashtags while match is on. 
    Later we can visualize the whole match's timeline and publish. (Defeats the purpose?)
+
 Viz_Location:
  * A location density plot on a map for originating locations for all tweets
 
