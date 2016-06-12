@@ -68,3 +68,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+Movies
+/**/*.csv
+*.csv
+*.pdf
+/**/*.pdf
+*.xlsx
+/**/*.xlsx
