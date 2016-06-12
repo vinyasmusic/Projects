@@ -76,5 +76,7 @@ Possible insights?
 * Possible lessons for smart city?
 
 
-
+To-do:
+1. Search for more project ideas on Quora and Reddit
+2. Collect links for Indian Data Set
 
