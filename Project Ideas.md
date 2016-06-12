@@ -1,11 +1,11 @@
-*Football Twitter Sentiment Analysis:*
+**Football Twitter Sentiment Analysis:**
 
 	Main Objective : To make a visualization which shows the sentiment of the Tweeters concerning a match
 
 	Sub-objective :
-	 - One viz which shows the range of emotions for the whole match (Viz_Range)
-	 - One viz for live emotion tracking for each team (Viz_Live)
-	 - One viz for showing location of tweets (Viz_Location)
+	 * One viz which shows the range of emotions for the whole match (Viz_Range)
+	 * One viz for live emotion tracking for each team (Viz_Live)
+	 * One viz for showing location of tweets (Viz_Location)
 
 	Method and Challenges:
 
@@ -35,7 +35,7 @@
 	 - Deduction of playing style of a team?????
 
 
-*Bollywood (Indian Film Industry) analysis*
+**Bollywood (Indian Film Industry) analysis**
 
 	Objective : Find out movies featured in IMDB, their ratings and correlate with their business
 
@@ -48,7 +48,7 @@
     Challenges:
     - Finding combination of directors and actors for specific purpose might be tricky
 
-*Hollywood analysis*
+**Hollywood analysis**
 
 	Objective: Generate some general analysis from IMDB and BoxOfficeMojo
 
@@ -58,7 +58,7 @@
 	 e.g. Jungle Book has done tremendously well in India than in other overseas countries
 
 
-*Comparison of various Indian cities on amenities and demographic details*
+**Comparison of various Indian cities on amenities and demographic details**
 
 	Objective: Compare the various amenities like roads and also demographic details.
 
