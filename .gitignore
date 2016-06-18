@@ -76,3 +76,9 @@ Movies
 /**/*.pdf
 *.xlsx
 /**/*.xlsx
+*.exe
+/**/*.exe
+*.log
+/**/*.log
+.ipynb_checkpoints/
+//.ipynb_checkpoints/
