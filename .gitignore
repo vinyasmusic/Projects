@@ -83,3 +83,5 @@ Movies
 .ipynb_checkpoints/
 //.ipynb_checkpoints/
 /TextNook Assignment/Reddit_clone/
+*.mp4
+/**/*.mp4

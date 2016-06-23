@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Reddit Clone</title>
+</head>
+
+<body>
+<h1>Reddit Clone</h1>
+{% extends "base.html" %}
+
+{% block content %}
+
+
+    <ol>
+{% for link in object_list %}
+    <li>
+    <a href="{{ link.url }}">
+      <b>{{ link.title }}</b>
+    </a>
+    </li>
+{% endfor %}
+
+</ol>
+{% endblock %}
+</body>
+</html>
