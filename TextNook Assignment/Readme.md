@@ -6,8 +6,6 @@ Challenges faced : Getting the number of likes on the bog posts was a challenge,
 
 Result : Details except the number of likes were scraped and 
 
-Assignment 2 : Making a Reddit Clone
 
-Package used : Django
 
-Challenges : Could only achieve something very basic.  
+
